@@ -1,0 +1,300 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreResource\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91952721-EC89-4356-A902-B0C9EE4F057D}|StoreResource\\StoreResource.csproj|c:\\users\\maks_\\source\\repos\\microservices\\storeresource\\storeresource\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91952721-EC89-4356-A902-B0C9EE4F057D}|StoreResource\\StoreResource.csproj|solutionrelative:storeresource\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91952721-EC89-4356-A902-B0C9EE4F057D}|StoreResource\\StoreResource.csproj|c:\\users\\maks_\\source\\repos\\microservices\\storeresource\\storeresource\\services\\carsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91952721-EC89-4356-A902-B0C9EE4F057D}|StoreResource\\StoreResource.csproj|solutionrelative:storeresource\\services\\carsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91952721-EC89-4356-A902-B0C9EE4F057D}|StoreResource\\StoreResource.csproj|c:\\users\\maks_\\source\\repos\\microservices\\storeresource\\storeresource\\repos\\carsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91952721-EC89-4356-A902-B0C9EE4F057D}|StoreResource\\StoreResource.csproj|solutionrelative:storeresource\\repos\\carsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91952721-EC89-4356-A902-B0C9EE4F057D}|StoreResource\\StoreResource.csproj|c:\\users\\maks_\\source\\repos\\microservices\\storeresource\\storeresource\\data\\storedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91952721-EC89-4356-A902-B0C9EE4F057D}|StoreResource\\StoreResource.csproj|solutionrelative:storeresource\\data\\storedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91952721-EC89-4356-A902-B0C9EE4F057D}|StoreResource\\StoreResource.csproj|c:\\users\\maks_\\source\\repos\\microservices\\storeresource\\storeresource\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91952721-EC89-4356-A902-B0C9EE4F057D}|StoreResource\\StoreResource.csproj|solutionrelative:storeresource\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91952721-EC89-4356-A902-B0C9EE4F057D}|StoreResource\\StoreResource.csproj|c:\\users\\maks_\\source\\repos\\microservices\\storeresource\\storeresource\\models\\tables\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91952721-EC89-4356-A902-B0C9EE4F057D}|StoreResource\\StoreResource.csproj|solutionrelative:storeresource\\models\\tables\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91952721-EC89-4356-A902-B0C9EE4F057D}|StoreResource\\StoreResource.csproj|c:\\users\\maks_\\source\\repos\\microservices\\storeresource\\storeresource\\models\\web\\requests\\cars\\createcarrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91952721-EC89-4356-A902-B0C9EE4F057D}|StoreResource\\StoreResource.csproj|solutionrelative:storeresource\\models\\web\\requests\\cars\\createcarrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91952721-EC89-4356-A902-B0C9EE4F057D}|StoreResource\\StoreResource.csproj|c:\\users\\maks_\\source\\repos\\microservices\\storeresource\\storeresource\\interfaces\\iservice\\icarsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91952721-EC89-4356-A902-B0C9EE4F057D}|StoreResource\\StoreResource.csproj|solutionrelative:storeresource\\interfaces\\iservice\\icarsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91952721-EC89-4356-A902-B0C9EE4F057D}|StoreResource\\StoreResource.csproj|c:\\users\\maks_\\source\\repos\\microservices\\storeresource\\storeresource\\interfaces\\irepo\\icarsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91952721-EC89-4356-A902-B0C9EE4F057D}|StoreResource\\StoreResource.csproj|solutionrelative:storeresource\\interfaces\\irepo\\icarsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91952721-EC89-4356-A902-B0C9EE4F057D}|StoreResource\\StoreResource.csproj|c:\\users\\maks_\\source\\repos\\microservices\\storeresource\\storeresource\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{91952721-EC89-4356-A902-B0C9EE4F057D}|StoreResource\\StoreResource.csproj|solutionrelative:storeresource\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91952721-EC89-4356-A902-B0C9EE4F057D}|StoreResource\\StoreResource.csproj|c:\\users\\maks_\\source\\repos\\microservices\\storeresource\\storeresource\\models\\tables\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91952721-EC89-4356-A902-B0C9EE4F057D}|StoreResource\\StoreResource.csproj|solutionrelative:storeresource\\models\\tables\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91952721-EC89-4356-A902-B0C9EE4F057D}|StoreResource\\StoreResource.csproj|c:\\users\\maks_\\source\\repos\\microservices\\storeresource\\storeresource\\models\\tables\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91952721-EC89-4356-A902-B0C9EE4F057D}|StoreResource\\StoreResource.csproj|solutionrelative:storeresource\\models\\tables\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91952721-EC89-4356-A902-B0C9EE4F057D}|StoreResource\\StoreResource.csproj|c:\\users\\maks_\\source\\repos\\microservices\\storeresource\\storeresource\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{91952721-EC89-4356-A902-B0C9EE4F057D}|StoreResource\\StoreResource.csproj|solutionrelative:storeresource\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91952721-EC89-4356-A902-B0C9EE4F057D}|StoreResource\\StoreResource.csproj|c:\\users\\maks_\\source\\repos\\microservices\\storeresource\\storeresource\\storeresource.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{91952721-EC89-4356-A902-B0C9EE4F057D}|StoreResource\\StoreResource.csproj|solutionrelative:storeresource\\storeresource.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreResource\\StoreResource\\Repos\\CarsRepository.cs",
+              "RelativeDocumentMoniker": "StoreResource\\Repos\\CarsRepository.cs",
+              "ToolTip": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreResource\\StoreResource\\Repos\\CarsRepository.cs",
+              "RelativeToolTip": "StoreResource\\Repos\\CarsRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADgvxEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T14:43:38.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICarsService.cs",
+              "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreResource\\StoreResource\\Interfaces\\IService\\ICarsService.cs",
+              "RelativeDocumentMoniker": "StoreResource\\Interfaces\\IService\\ICarsService.cs",
+              "ToolTip": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreResource\\StoreResource\\Interfaces\\IService\\ICarsService.cs",
+              "RelativeToolTip": "StoreResource\\Interfaces\\IService\\ICarsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T14:43:05.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreResource\\StoreResource\\Controllers\\CarController.cs",
+              "RelativeDocumentMoniker": "StoreResource\\Controllers\\CarController.cs",
+              "ToolTip": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreResource\\StoreResource\\Controllers\\CarController.cs",
+              "RelativeToolTip": "StoreResource\\Controllers\\CarController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T09:04:29.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreResource\\StoreResource\\Program.cs",
+              "RelativeDocumentMoniker": "StoreResource\\Program.cs",
+              "ToolTip": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreResource\\StoreResource\\Program.cs",
+              "RelativeToolTip": "StoreResource\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T05:47:42.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICarsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreResource\\StoreResource\\Interfaces\\IRepo\\ICarsRepository.cs",
+              "RelativeDocumentMoniker": "StoreResource\\Interfaces\\IRepo\\ICarsRepository.cs",
+              "ToolTip": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreResource\\StoreResource\\Interfaces\\IRepo\\ICarsRepository.cs",
+              "RelativeToolTip": "StoreResource\\Interfaces\\IRepo\\ICarsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T14:42:49.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreResource\\StoreResource\\Models\\Tables\\Car.cs",
+              "RelativeDocumentMoniker": "StoreResource\\Models\\Tables\\Car.cs",
+              "ToolTip": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreResource\\StoreResource\\Models\\Tables\\Car.cs",
+              "RelativeToolTip": "StoreResource\\Models\\Tables\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T14:41:22.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StoreDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreResource\\StoreResource\\Data\\StoreDbContext.cs",
+              "RelativeDocumentMoniker": "StoreResource\\Data\\StoreDbContext.cs",
+              "ToolTip": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreResource\\StoreResource\\Data\\StoreDbContext.cs",
+              "RelativeToolTip": "StoreResource\\Data\\StoreDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T14:44:08.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarsService.cs",
+              "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreResource\\StoreResource\\Services\\CarsService.cs",
+              "RelativeDocumentMoniker": "StoreResource\\Services\\CarsService.cs",
+              "ToolTip": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreResource\\StoreResource\\Services\\CarsService.cs",
+              "RelativeToolTip": "StoreResource\\Services\\CarsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T14:45:36.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateCarRequest.cs",
+              "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreResource\\StoreResource\\Models\\Web\\Requests\\Cars\\CreateCarRequest.cs",
+              "RelativeDocumentMoniker": "StoreResource\\Models\\Web\\Requests\\Cars\\CreateCarRequest.cs",
+              "ToolTip": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreResource\\StoreResource\\Models\\Web\\Requests\\Cars\\CreateCarRequest.cs",
+              "RelativeToolTip": "StoreResource\\Models\\Web\\Requests\\Cars\\CreateCarRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T14:53:12.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreResource\\StoreResource\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "StoreResource\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreResource\\StoreResource\\appsettings.Development.json",
+              "RelativeToolTip": "StoreResource\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-05T13:46:58.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreResource\\StoreResource\\Models\\Tables\\User.cs",
+              "RelativeDocumentMoniker": "StoreResource\\Models\\Tables\\User.cs",
+              "ToolTip": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreResource\\StoreResource\\Models\\Tables\\User.cs",
+              "RelativeToolTip": "StoreResource\\Models\\Tables\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T14:41:34.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreResource\\StoreResource\\Models\\Tables\\Order.cs",
+              "RelativeDocumentMoniker": "StoreResource\\Models\\Tables\\Order.cs",
+              "ToolTip": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreResource\\StoreResource\\Models\\Tables\\Order.cs",
+              "RelativeToolTip": "StoreResource\\Models\\Tables\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T14:41:27.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StoreResource.http",
+              "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreResource\\StoreResource\\StoreResource.http",
+              "RelativeDocumentMoniker": "StoreResource\\StoreResource.http",
+              "ToolTip": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreResource\\StoreResource\\StoreResource.http",
+              "RelativeToolTip": "StoreResource\\StoreResource.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-05T05:47:36.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreResource\\StoreResource\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "StoreResource\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreResource\\StoreResource\\Properties\\launchSettings.json",
+              "RelativeToolTip": "StoreResource\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-05T05:47:04.381Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1301,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1045,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 877,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
