@@ -6,6 +6,7 @@ using OpenIddict.Client;
 using StoreService.Models.Web.Integration.StoreResource.Requests;
 using System.Net.Http.Headers;
 using System.Text.Json;
+using System.Text.Json.Serialization;
 using static OpenIddict.Client.WebIntegration.OpenIddictClientWebIntegrationConstants;
 
 namespace StoreService.Controllers
@@ -22,16 +23,24 @@ namespace StoreService.Controllers
       _serviceProvider = serviceProvider;
     }
 
-    [HttpGet("CarList")]
-    public async Task<IActionResult> GetCarList()
+    [HttpPost("CarList")]
+    public async Task<IActionResult> GetCarList([FromBody] Token _token)
     {
       using var client = _serviceProvider.GetRequiredService<HttpClient>();
 
       string token = "";
 
-      if (HttpContext.Request.Cookies.ContainsKey("Token"))
+      switch (_token.token)
       {
-        token = HttpContext.Request.Cookies["Token"];
+        case null:
+          if (HttpContext.Request.Cookies.ContainsKey("Token"))
+          {
+            token = HttpContext.Request.Cookies["Token"];
+          }
+          break;
+        default:
+          token = _token.token;
+          break;
       }
 
       using var request = new HttpRequestMessage(HttpMethod.Get, "https://localhost:7101/api/Car/CarList");

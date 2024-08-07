@@ -82,3 +82,4 @@ C:\Users\maks_\source\repos\Microservices\StoreService\StoreService\bin\Debug\ne
 C:\Users\maks_\source\repos\Microservices\StoreService\StoreService\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\maks_\source\repos\Microservices\StoreService\StoreService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\maks_\source\repos\Microservices\StoreService\StoreService\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\maks_\source\repos\Microservices\StoreService\StoreService\obj\Debug\net8.0\StoreService.sourcelink.json

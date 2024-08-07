@@ -1,7 +1,9 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.Text.Json.Serialization;
 
 namespace StoreService.Models.Web
 {
+  [JsonSerializable(typeof(LoginRequest))]
     public class LoginRequest
     {
         [Required]

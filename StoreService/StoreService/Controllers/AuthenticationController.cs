@@ -15,7 +15,7 @@ namespace StoreService.Controllers
       _serviceProvider = provider;
     }
 
-    [HttpPost]
+    [HttpPost("Login")]
     public async Task<IActionResult> Login(
       [FromBody] LoginRequest loginRequest)
     {
@@ -44,7 +44,7 @@ namespace StoreService.Controllers
         return response.StatusCode != HttpStatusCode.NotFound
           ? response.StatusCode == HttpStatusCode.Conflict
             ? BadRequest("Неверный логин или пароль")
-            : Ok("Аутентификация пройдена")
+            : Ok(token)
           : NotFound("Аккаунт не найден");
       }
     }

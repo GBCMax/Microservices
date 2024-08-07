@@ -1,5 +1,5 @@
-﻿using Microsoft.AspNetCore.Identity.Data;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
+using StoreService.Models.Web;
 using System.Net;
 
 namespace StoreService.Controllers
