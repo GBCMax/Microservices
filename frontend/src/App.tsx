@@ -1,20 +1,14 @@
-import {Route, Routes} from "react-router-dom"
-import { ProductsPage } from "./pages/productsPage";
-import { AboutPage } from "./pages/aboutPage";
-import { Navigation } from "./components/navigation";
-import { CarsPage } from "./pages/carsPage";
+import { Navbar } from "./components/navbar";
+import { useRoutes } from "./routes/routes";
 
-function App() {
+
+export function App() {
+  const routes = useRoutes()
+
   return (
     <>
-    <Navigation/>
-      <Routes>
-        <Route path="/" element={<ProductsPage/>}/>
-        <Route path="/cars" element={<CarsPage/>}/>
-        <Route path="/about" element={<AboutPage/>}/>
-      </Routes>
+      <Navbar />
+      {routes}
     </>
   )
 }
-
-export default App;

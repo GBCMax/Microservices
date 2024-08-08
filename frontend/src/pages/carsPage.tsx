@@ -2,7 +2,6 @@ import { Car } from "../components/car"
 import { ErrorMessage } from "../components/errorMessage"
 import { Loader } from "../components/loader"
 import { UseCars } from "../hooks/cars"
-import { ICar } from "../models/car"
 
 export function CarsPage() {
     const {loading, error, cars} = UseCars()

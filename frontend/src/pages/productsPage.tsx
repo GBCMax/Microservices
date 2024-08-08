@@ -23,9 +23,11 @@ export function ProductsPage() {
       { error &&<ErrorMessage error={error}/> }
       { products.map(p => <Product product={p} key={p.id}/>) }
 
-      {modal && <Modal title='Create new product' onClose={() => close()}>
+      { modal && 
+      <Modal title='Create new product' onClose={() => close()}>
         <CreateProduct onCreate={createHandler}/>
-      </Modal>}
+      </Modal>
+      }
 
       <button 
         className='fixed bottom-5 right-5 rounded-full bg-red-700 text-white text-2xl px-4 py-2'
