@@ -5,7 +5,7 @@ export function Navbar() {
   const { isAuthenticated } = useAuth()
   return (
     <>
-      <nav className="h-[50px] flex justify-between px-5 bg-gray-500 items-center text-white">
+      <nav className="h-[50px] flex justify-between px-5 bg-gradient-to-r from-sky-500 to-indigo-500 items-center text-white text-violet-800">
         <Link to="/">Home</Link>
         {isAuthenticated && <Link to="/products" className="mr-2">Products</Link>}
         {isAuthenticated && <Link to="/cars" className="mr-4">Cars</Link>}

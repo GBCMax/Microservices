@@ -1,3 +1,4 @@
+import { Footer } from "./components/footer";
 import { Navbar } from "./components/navbar";
 import { useRoutes } from "./routes/routes";
 
@@ -9,6 +10,7 @@ export function App() {
     <>
       <Navbar />
       {routes}
+      <Footer/>
     </>
   )
 }
