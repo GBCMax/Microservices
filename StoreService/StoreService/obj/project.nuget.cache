@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "lTxBa51bIt0=",
+  "dgSpecHash": "YKF+DHfPzdI=",
   "success": true,
   "projectFilePath": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreService\\StoreService\\StoreService.csproj",
   "expectedPackageFiles": [
@@ -80,7 +80,12 @@
     "C:\\Users\\maks_\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
     "C:\\Users\\maks_\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.0\\system.diagnostics.diagnosticsource.8.0.0.nupkg.sha512",
     "C:\\Users\\maks_\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.1.2\\system.identitymodel.tokens.jwt.7.1.2.nupkg.sha512",
-    "C:\\Users\\maks_\\.nuget\\packages\\system.threading.ratelimiting\\8.0.0\\system.threading.ratelimiting.8.0.0.nupkg.sha512"
+    "C:\\Users\\maks_\\.nuget\\packages\\system.reactive\\6.0.1\\system.reactive.6.0.1.nupkg.sha512",
+    "C:\\Users\\maks_\\.nuget\\packages\\system.reactive.core\\6.0.1\\system.reactive.core.6.0.1.nupkg.sha512",
+    "C:\\Users\\maks_\\.nuget\\packages\\system.reactive.interfaces\\6.0.1\\system.reactive.interfaces.6.0.1.nupkg.sha512",
+    "C:\\Users\\maks_\\.nuget\\packages\\system.reactive.linq\\6.0.1\\system.reactive.linq.6.0.1.nupkg.sha512",
+    "C:\\Users\\maks_\\.nuget\\packages\\system.threading.ratelimiting\\8.0.0\\system.threading.ratelimiting.8.0.0.nupkg.sha512",
+    "C:\\Users\\maks_\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
   ],
   "logs": []
 }

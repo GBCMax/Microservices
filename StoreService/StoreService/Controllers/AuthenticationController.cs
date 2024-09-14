@@ -5,7 +5,7 @@ using StoreService.Models.Web;
 
 namespace StoreService.Controllers
 {
-    [ApiController]
+  [ApiController]
   [Route("api/[controller]")]
   public class AuthenticationController : Controller
   {

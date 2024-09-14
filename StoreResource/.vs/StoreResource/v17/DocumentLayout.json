@@ -110,8 +110,7 @@
               "RelativeToolTip": "StoreResource\\Controllers\\CarController.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAAwBQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T09:04:29.556Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-05T09:04:29.556Z"
             },
             {
               "$type": "Document",
@@ -145,7 +144,7 @@
               "RelativeDocumentMoniker": "StoreResource\\Models\\Tables\\Car.cs",
               "ToolTip": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreResource\\StoreResource\\Models\\Tables\\Car.cs",
               "RelativeToolTip": "StoreResource\\Models\\Tables\\Car.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-05T14:41:22.656Z",
               "EditorCaption": ""
@@ -269,6 +268,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
             }
           ]
         },
