@@ -55,8 +55,9 @@ namespace StoreService.Servers
         }
 
         public void PostBroadcastMessage<T>(T _msg) where T : notnull => p_wsServer.PostBroadcastMsg(_msg);
+        public async Task PostBroadcastMessageAsync<T>(T _msg, CancellationToken _ct) where T : notnull => await p_wsServer.BroadcastMsgAsync(_msg, _ct);
 
-        public async Task SendMessageAsync<T>(WebSocketSession _session, T _msg, CancellationToken _ct) where T : notnull => await p_wsServer.SendMsgAsync(_session, _msg, _ct);
+    public async Task SendMessageAsync<T>(WebSocketSession _session, T _msg, CancellationToken _ct) where T : notnull => await p_wsServer.SendMsgAsync(_session, _msg, _ct);
 
         public async Task SendMessageAsync<T>(int _userId, T _msg, CancellationToken _ct) where T : notnull
         {

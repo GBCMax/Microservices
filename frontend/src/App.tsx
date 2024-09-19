@@ -5,6 +5,7 @@ import { useRoutes } from "./routes/routes";
 import * as WsTypes from "./websocket/WsTypes"
 import { useState } from "react";
 import { ModalHello } from "./context/modalHello";
+import axios from "axios";
 
 const webSocket = new WebsocketBuilder('wss://localhost:7186/api/WebSocket/connect')
   .withBackoff(new ConstantBackoff(1000))
@@ -22,6 +23,14 @@ export function App() {
       await handleWsMsgAsync(_ev);
     },
   );
+
+  async function GetSpeed(){
+    const speed = await axios.get('https://localhost:7186/api/WebSocket/connectToCar')
+    console.log(speed.data)
+    setTimeout(GetSpeed, 5000);
+  }
+
+  GetSpeed()
   
   async function handleWsMsgAsync(_ev: MessageEvent){
     const baseMsg = JSON.parse(_ev.data) as WsTypes.WsBaseMsg;
@@ -35,6 +44,11 @@ export function App() {
         const msgPayload: WsTypes.WsMsgHello = baseMsg.payload;
         showHelloNotification();
         console.log(msgPayload)
+    }
+
+    if (baseMsg.type === 'ws-msg-speed-update') {
+      const msgPayload: WsTypes.WsMsgSpeedUpdate = baseMsg.payload;
+      console.log(msgPayload)
     }
   }
 

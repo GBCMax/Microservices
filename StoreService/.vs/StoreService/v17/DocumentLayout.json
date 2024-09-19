@@ -3,52 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F61E5EAA-52EC-4C01-B2CE-201EAECA57AE}|StoreService\\StoreService.csproj|c:\\users\\maks_\\source\\repos\\microservices\\storeservice\\storeservice\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F61E5EAA-52EC-4C01-B2CE-201EAECA57AE}|StoreService\\StoreService.csproj|solutionrelative:storeservice\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F61E5EAA-52EC-4C01-B2CE-201EAECA57AE}|StoreService\\StoreService.csproj|c:\\users\\maks_\\source\\repos\\microservices\\storeservice\\storeservice\\servers\\websocketserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F61E5EAA-52EC-4C01-B2CE-201EAECA57AE}|StoreService\\StoreService.csproj|solutionrelative:storeservice\\servers\\websocketserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F61E5EAA-52EC-4C01-B2CE-201EAECA57AE}|StoreService\\StoreService.csproj|c:\\users\\maks_\\source\\repos\\microservices\\storeservice\\storeservice\\controllers\\websocketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F61E5EAA-52EC-4C01-B2CE-201EAECA57AE}|StoreService\\StoreService.csproj|solutionrelative:storeservice\\controllers\\websocketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F61E5EAA-52EC-4C01-B2CE-201EAECA57AE}|StoreService\\StoreService.csproj|c:\\users\\maks_\\source\\repos\\microservices\\storeservice\\storeservice\\models\\websocketmodels\\websocketsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F61E5EAA-52EC-4C01-B2CE-201EAECA57AE}|StoreService\\StoreService.csproj|solutionrelative:storeservice\\models\\websocketmodels\\websocketsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F61E5EAA-52EC-4C01-B2CE-201EAECA57AE}|StoreService\\StoreService.csproj|c:\\users\\maks_\\source\\repos\\microservices\\storeservice\\storeservice\\imitationcartravel\\travel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F61E5EAA-52EC-4C01-B2CE-201EAECA57AE}|StoreService\\StoreService.csproj|solutionrelative:storeservice\\imitationcartravel\\travel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F61E5EAA-52EC-4C01-B2CE-201EAECA57AE}|StoreService\\StoreService.csproj|c:\\users\\maks_\\source\\repos\\microservices\\storeservice\\storeservice\\servers\\websocketimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F61E5EAA-52EC-4C01-B2CE-201EAECA57AE}|StoreService\\StoreService.csproj|solutionrelative:storeservice\\servers\\websocketimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F61E5EAA-52EC-4C01-B2CE-201EAECA57AE}|StoreService\\StoreService.csproj|c:\\users\\maks_\\source\\repos\\microservices\\storeservice\\storeservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F61E5EAA-52EC-4C01-B2CE-201EAECA57AE}|StoreService\\StoreService.csproj|solutionrelative:storeservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F61E5EAA-52EC-4C01-B2CE-201EAECA57AE}|StoreService\\StoreService.csproj|c:\\users\\maks_\\source\\repos\\microservices\\storeservice\\storeservice\\servers\\websocketserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F61E5EAA-52EC-4C01-B2CE-201EAECA57AE}|StoreService\\StoreService.csproj|solutionrelative:storeservice\\servers\\websocketserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F61E5EAA-52EC-4C01-B2CE-201EAECA57AE}|StoreService\\StoreService.csproj|c:\\users\\maks_\\source\\repos\\microservices\\storeservice\\storeservice\\extensions\\observableex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F61E5EAA-52EC-4C01-B2CE-201EAECA57AE}|StoreService\\StoreService.csproj|solutionrelative:storeservice\\extensions\\observableex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F61E5EAA-52EC-4C01-B2CE-201EAECA57AE}|StoreService\\StoreService.csproj|c:\\users\\maks_\\source\\repos\\microservices\\storeservice\\storeservice\\jsonctx\\websocketjsonctx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F61E5EAA-52EC-4C01-B2CE-201EAECA57AE}|StoreService\\StoreService.csproj|solutionrelative:storeservice\\jsonctx\\websocketjsonctx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F61E5EAA-52EC-4C01-B2CE-201EAECA57AE}|StoreService\\StoreService.csproj|c:\\users\\maks_\\source\\repos\\microservices\\storeservice\\storeservice\\models\\websocketmodels\\wsmessagespeedupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F61E5EAA-52EC-4C01-B2CE-201EAECA57AE}|StoreService\\StoreService.csproj|solutionrelative:storeservice\\models\\websocketmodels\\wsmessagespeedupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F61E5EAA-52EC-4C01-B2CE-201EAECA57AE}|StoreService\\StoreService.csproj|c:\\users\\maks_\\source\\repos\\microservices\\storeservice\\storeservice\\models\\websocketmodels\\wsbasemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F61E5EAA-52EC-4C01-B2CE-201EAECA57AE}|StoreService\\StoreService.csproj|solutionrelative:storeservice\\models\\websocketmodels\\wsbasemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F61E5EAA-52EC-4C01-B2CE-201EAECA57AE}|StoreService\\StoreService.csproj|c:\\users\\maks_\\source\\repos\\microservices\\storeservice\\storeservice\\models\\websocketmodels\\wsmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F61E5EAA-52EC-4C01-B2CE-201EAECA57AE}|StoreService\\StoreService.csproj|solutionrelative:storeservice\\models\\websocketmodels\\wsmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F61E5EAA-52EC-4C01-B2CE-201EAECA57AE}|StoreService\\StoreService.csproj|c:\\users\\maks_\\source\\repos\\microservices\\storeservice\\storeservice\\data\\consts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F61E5EAA-52EC-4C01-B2CE-201EAECA57AE}|StoreService\\StoreService.csproj|solutionrelative:storeservice\\data\\consts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F61E5EAA-52EC-4C01-B2CE-201EAECA57AE}|StoreService\\StoreService.csproj|c:\\users\\maks_\\source\\repos\\microservices\\storeservice\\storeservice\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F61E5EAA-52EC-4C01-B2CE-201EAECA57AE}|StoreService\\StoreService.csproj|solutionrelative:storeservice\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F61E5EAA-52EC-4C01-B2CE-201EAECA57AE}|StoreService\\StoreService.csproj|c:\\users\\maks_\\source\\repos\\microservices\\storeservice\\storeservice\\jsonctx\\websocketjsonctx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F61E5EAA-52EC-4C01-B2CE-201EAECA57AE}|StoreService\\StoreService.csproj|solutionrelative:storeservice\\jsonctx\\websocketjsonctx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F61E5EAA-52EC-4C01-B2CE-201EAECA57AE}|StoreService\\StoreService.csproj|c:\\users\\maks_\\source\\repos\\microservices\\storeservice\\storeservice\\models\\websocketmodels\\wsmessagehello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F61E5EAA-52EC-4C01-B2CE-201EAECA57AE}|StoreService\\StoreService.csproj|solutionrelative:storeservice\\models\\websocketmodels\\wsmessagehello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F61E5EAA-52EC-4C01-B2CE-201EAECA57AE}|StoreService\\StoreService.csproj|c:\\users\\maks_\\source\\repos\\microservices\\storeservice\\storeservice\\data\\consts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F61E5EAA-52EC-4C01-B2CE-201EAECA57AE}|StoreService\\StoreService.csproj|solutionrelative:storeservice\\data\\consts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F61E5EAA-52EC-4C01-B2CE-201EAECA57AE}|StoreService\\StoreService.csproj|c:\\users\\maks_\\source\\repos\\microservices\\storeservice\\storeservice\\extensions\\observableex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F61E5EAA-52EC-4C01-B2CE-201EAECA57AE}|StoreService\\StoreService.csproj|solutionrelative:storeservice\\extensions\\observableex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F61E5EAA-52EC-4C01-B2CE-201EAECA57AE}|StoreService\\StoreService.csproj|c:\\users\\maks_\\source\\repos\\microservices\\storeservice\\storeservice\\models\\websocketmodels\\wsmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F61E5EAA-52EC-4C01-B2CE-201EAECA57AE}|StoreService\\StoreService.csproj|solutionrelative:storeservice\\models\\websocketmodels\\wsmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F61E5EAA-52EC-4C01-B2CE-201EAECA57AE}|StoreService\\StoreService.csproj|c:\\users\\maks_\\source\\repos\\microservices\\storeservice\\storeservice\\models\\web\\integration\\storeresource\\requests\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F61E5EAA-52EC-4C01-B2CE-201EAECA57AE}|StoreService\\StoreService.csproj|solutionrelative:storeservice\\models\\web\\integration\\storeresource\\requests\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F61E5EAA-52EC-4C01-B2CE-201EAECA57AE}|StoreService\\StoreService.csproj|c:\\users\\maks_\\source\\repos\\microservices\\storeservice\\storeservice\\models\\websocketmodels\\websocketsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F61E5EAA-52EC-4C01-B2CE-201EAECA57AE}|StoreService\\StoreService.csproj|solutionrelative:storeservice\\models\\websocketmodels\\websocketsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F61E5EAA-52EC-4C01-B2CE-201EAECA57AE}|StoreService\\StoreService.csproj|c:\\users\\maks_\\source\\repos\\microservices\\storeservice\\storeservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F61E5EAA-52EC-4C01-B2CE-201EAECA57AE}|StoreService\\StoreService.csproj|solutionrelative:storeservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F61E5EAA-52EC-4C01-B2CE-201EAECA57AE}|StoreService\\StoreService.csproj|c:\\users\\maks_\\source\\repos\\microservices\\storeservice\\storeservice\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -57,10 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F61E5EAA-52EC-4C01-B2CE-201EAECA57AE}|StoreService\\StoreService.csproj|c:\\users\\maks_\\source\\repos\\microservices\\storeservice\\storeservice\\controllers\\authorizationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F61E5EAA-52EC-4C01-B2CE-201EAECA57AE}|StoreService\\StoreService.csproj|solutionrelative:storeservice\\controllers\\authorizationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F61E5EAA-52EC-4C01-B2CE-201EAECA57AE}|StoreService\\StoreService.csproj|c:\\users\\maks_\\source\\repos\\microservices\\storeservice\\storeservice\\models\\web\\integration\\storeresource\\requests\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F61E5EAA-52EC-4C01-B2CE-201EAECA57AE}|StoreService\\StoreService.csproj|solutionrelative:storeservice\\models\\web\\integration\\storeresource\\requests\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F61E5EAA-52EC-4C01-B2CE-201EAECA57AE}|StoreService\\StoreService.csproj|c:\\users\\maks_\\source\\repos\\microservices\\storeservice\\storeservice\\models\\web\\integration\\storeresource\\requests\\addcarrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -102,7 +110,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 634,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -115,18 +123,175 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Travel.cs",
+              "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreService\\StoreService\\ImitationCarTravel\\Travel.cs",
+              "RelativeDocumentMoniker": "StoreService\\ImitationCarTravel\\Travel.cs",
+              "ToolTip": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreService\\StoreService\\ImitationCarTravel\\Travel.cs",
+              "RelativeToolTip": "StoreService\\ImitationCarTravel\\Travel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T05:58:56.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebSocketController.cs",
+              "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreService\\StoreService\\Controllers\\WebSocketController.cs",
+              "RelativeDocumentMoniker": "StoreService\\Controllers\\WebSocketController.cs",
+              "ToolTip": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreService\\StoreService\\Controllers\\WebSocketController.cs",
+              "RelativeToolTip": "StoreService\\Controllers\\WebSocketController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAkwCcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T08:21:25.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "WebSocketServer.cs",
               "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreService\\StoreService\\Servers\\WebSocketServer.cs",
               "RelativeDocumentMoniker": "StoreService\\Servers\\WebSocketServer.cs",
               "ToolTip": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreService\\StoreService\\Servers\\WebSocketServer.cs",
               "RelativeToolTip": "StoreService\\Servers\\WebSocketServer.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAjwDYAAAAGAAAA",
+              "ViewState": "AQIAADAAAAAAAAAAAAAvwEoAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T07:38:08.024Z"
+              "WhenOpened": "2024-09-14T07:38:08.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WsMessageSpeedUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreService\\StoreService\\Models\\WebSocketModels\\WsMessageSpeedUpdate.cs",
+              "RelativeDocumentMoniker": "StoreService\\Models\\WebSocketModels\\WsMessageSpeedUpdate.cs",
+              "ToolTip": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreService\\StoreService\\Models\\WebSocketModels\\WsMessageSpeedUpdate.cs",
+              "RelativeToolTip": "StoreService\\Models\\WebSocketModels\\WsMessageSpeedUpdate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T05:53:03.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebSocketImpl.cs",
+              "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreService\\StoreService\\Servers\\WebSocketImpl.cs",
+              "RelativeDocumentMoniker": "StoreService\\Servers\\WebSocketImpl.cs",
+              "ToolTip": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreService\\StoreService\\Servers\\WebSocketImpl.cs",
+              "RelativeToolTip": "StoreService\\Servers\\WebSocketImpl.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAjwDkAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T07:01:50.59Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "WsBaseMessage.cs",
+              "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreService\\StoreService\\Models\\WebSocketModels\\WsBaseMessage.cs",
+              "RelativeDocumentMoniker": "StoreService\\Models\\WebSocketModels\\WsBaseMessage.cs",
+              "ToolTip": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreService\\StoreService\\Models\\WebSocketModels\\WsBaseMessage.cs",
+              "RelativeToolTip": "StoreService\\Models\\WebSocketModels\\WsBaseMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T07:57:34.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WebSocketJsonCtx.cs",
+              "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreService\\StoreService\\JsonCtx\\WebSocketJsonCtx.cs",
+              "RelativeDocumentMoniker": "StoreService\\JsonCtx\\WebSocketJsonCtx.cs",
+              "ToolTip": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreService\\StoreService\\JsonCtx\\WebSocketJsonCtx.cs",
+              "RelativeToolTip": "StoreService\\JsonCtx\\WebSocketJsonCtx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T07:59:12.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreService\\StoreService\\Controllers\\CarController.cs",
+              "RelativeDocumentMoniker": "StoreService\\Controllers\\CarController.cs",
+              "ToolTip": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreService\\StoreService\\Controllers\\CarController.cs",
+              "RelativeToolTip": "StoreService\\Controllers\\CarController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwDwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T05:39:28.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Consts.cs",
+              "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreService\\StoreService\\Data\\Consts.cs",
+              "RelativeDocumentMoniker": "StoreService\\Data\\Consts.cs",
+              "ToolTip": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreService\\StoreService\\Data\\Consts.cs",
+              "RelativeToolTip": "StoreService\\Data\\Consts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T07:49:40.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WsMessageHello.cs",
+              "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreService\\StoreService\\Models\\WebSocketModels\\WsMessageHello.cs",
+              "RelativeDocumentMoniker": "StoreService\\Models\\WebSocketModels\\WsMessageHello.cs",
+              "ToolTip": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreService\\StoreService\\Models\\WebSocketModels\\WsMessageHello.cs",
+              "RelativeToolTip": "StoreService\\Models\\WebSocketModels\\WsMessageHello.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T07:52:15.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ObservableEx.cs",
+              "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreService\\StoreService\\Extensions\\ObservableEx.cs",
+              "RelativeDocumentMoniker": "StoreService\\Extensions\\ObservableEx.cs",
+              "ToolTip": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreService\\StoreService\\Extensions\\ObservableEx.cs",
+              "RelativeToolTip": "StoreService\\Extensions\\ObservableEx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T08:06:44.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WsMessage.cs",
+              "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreService\\StoreService\\Models\\WebSocketModels\\WsMessage.cs",
+              "RelativeDocumentMoniker": "StoreService\\Models\\WebSocketModels\\WsMessage.cs",
+              "ToolTip": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreService\\StoreService\\Models\\WebSocketModels\\WsMessage.cs",
+              "RelativeToolTip": "StoreService\\Models\\WebSocketModels\\WsMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T07:56:23.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Token.cs",
+              "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreService\\StoreService\\Models\\Web\\Integration\\StoreResource\\Requests\\Token.cs",
+              "RelativeDocumentMoniker": "StoreService\\Models\\Web\\Integration\\StoreResource\\Requests\\Token.cs",
+              "ToolTip": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreService\\StoreService\\Models\\Web\\Integration\\StoreResource\\Requests\\Token.cs",
+              "RelativeToolTip": "StoreService\\Models\\Web\\Integration\\StoreResource\\Requests\\Token.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T12:54:04.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreService\\StoreService\\Program.cs",
               "RelativeDocumentMoniker": "StoreService\\Program.cs",
@@ -138,68 +303,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ObservableEx.cs",
-              "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreService\\StoreService\\Extensions\\ObservableEx.cs",
-              "RelativeDocumentMoniker": "StoreService\\Extensions\\ObservableEx.cs",
-              "ToolTip": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreService\\StoreService\\Extensions\\ObservableEx.cs",
-              "RelativeToolTip": "StoreService\\Extensions\\ObservableEx.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T08:06:44.138Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "WebSocketImpl.cs",
-              "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreService\\StoreService\\Servers\\WebSocketImpl.cs",
-              "RelativeDocumentMoniker": "StoreService\\Servers\\WebSocketImpl.cs",
-              "ToolTip": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreService\\StoreService\\Servers\\WebSocketImpl.cs",
-              "RelativeToolTip": "StoreService\\Servers\\WebSocketImpl.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAADgvy0AAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T07:01:50.59Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "WsBaseMessage.cs",
-              "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreService\\StoreService\\Models\\WebSocketModels\\WsBaseMessage.cs",
-              "RelativeDocumentMoniker": "StoreService\\Models\\WebSocketModels\\WsBaseMessage.cs",
-              "ToolTip": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreService\\StoreService\\Models\\WebSocketModels\\WsBaseMessage.cs",
-              "RelativeToolTip": "StoreService\\Models\\WebSocketModels\\WsBaseMessage.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T07:57:34.568Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CarController.cs",
-              "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreService\\StoreService\\Controllers\\CarController.cs",
-              "RelativeDocumentMoniker": "StoreService\\Controllers\\CarController.cs",
-              "ToolTip": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreService\\StoreService\\Controllers\\CarController.cs",
-              "RelativeToolTip": "StoreService\\Controllers\\CarController.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAYwDwAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T05:39:28.534Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WebSocketController.cs",
-              "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreService\\StoreService\\Controllers\\WebSocketController.cs",
-              "RelativeDocumentMoniker": "StoreService\\Controllers\\WebSocketController.cs",
-              "ToolTip": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreService\\StoreService\\Controllers\\WebSocketController.cs",
-              "RelativeToolTip": "StoreService\\Controllers\\WebSocketController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAADgvxIAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T08:21:25.54Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 13,
               "Title": "WebSocketSession.cs",
               "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreService\\StoreService\\Models\\WebSocketModels\\WebSocketSession.cs",
               "RelativeDocumentMoniker": "StoreService\\Models\\WebSocketModels\\WebSocketSession.cs",
@@ -211,55 +315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "WebSocketJsonCtx.cs",
-              "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreService\\StoreService\\JsonCtx\\WebSocketJsonCtx.cs",
-              "RelativeDocumentMoniker": "StoreService\\JsonCtx\\WebSocketJsonCtx.cs",
-              "ToolTip": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreService\\StoreService\\JsonCtx\\WebSocketJsonCtx.cs",
-              "RelativeToolTip": "StoreService\\JsonCtx\\WebSocketJsonCtx.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T07:59:12.284Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "WsMessage.cs",
-              "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreService\\StoreService\\Models\\WebSocketModels\\WsMessage.cs",
-              "RelativeDocumentMoniker": "StoreService\\Models\\WebSocketModels\\WsMessage.cs",
-              "ToolTip": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreService\\StoreService\\Models\\WebSocketModels\\WsMessage.cs",
-              "RelativeToolTip": "StoreService\\Models\\WebSocketModels\\WsMessage.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T07:56:23.508Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "WsMessageHello.cs",
-              "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreService\\StoreService\\Models\\WebSocketModels\\WsMessageHello.cs",
-              "RelativeDocumentMoniker": "StoreService\\Models\\WebSocketModels\\WsMessageHello.cs",
-              "ToolTip": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreService\\StoreService\\Models\\WebSocketModels\\WsMessageHello.cs",
-              "RelativeToolTip": "StoreService\\Models\\WebSocketModels\\WsMessageHello.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T07:52:15.826Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Consts.cs",
-              "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreService\\StoreService\\Data\\Consts.cs",
-              "RelativeDocumentMoniker": "StoreService\\Data\\Consts.cs",
-              "ToolTip": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreService\\StoreService\\Data\\Consts.cs",
-              "RelativeToolTip": "StoreService\\Data\\Consts.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T07:49:40.76Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreService\\StoreService\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "StoreService\\Properties\\launchSettings.json",
@@ -271,7 +327,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "AddCarRequest.cs",
               "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreService\\StoreService\\Models\\Web\\Integration\\StoreResource\\Requests\\AddCarRequest.cs",
               "RelativeDocumentMoniker": "StoreService\\Models\\Web\\Integration\\StoreResource\\Requests\\AddCarRequest.cs",
@@ -283,7 +339,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "AuthenticationController.cs",
               "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreService\\StoreService\\Controllers\\AuthenticationController.cs",
               "RelativeDocumentMoniker": "StoreService\\Controllers\\AuthenticationController.cs",
@@ -296,19 +352,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Token.cs",
-              "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreService\\StoreService\\Models\\Web\\Integration\\StoreResource\\Requests\\Token.cs",
-              "RelativeDocumentMoniker": "StoreService\\Models\\Web\\Integration\\StoreResource\\Requests\\Token.cs",
-              "ToolTip": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreService\\StoreService\\Models\\Web\\Integration\\StoreResource\\Requests\\Token.cs",
-              "RelativeToolTip": "StoreService\\Models\\Web\\Integration\\StoreResource\\Requests\\Token.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T12:54:04.756Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "AuthorizationController.cs",
               "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreService\\StoreService\\Controllers\\AuthorizationController.cs",
               "RelativeDocumentMoniker": "StoreService\\Controllers\\AuthorizationController.cs",
@@ -321,7 +365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "LoginRequest.cs",
               "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreService\\StoreService\\Models\\Web\\LoginRequest.cs",
               "RelativeDocumentMoniker": "StoreService\\Models\\Web\\LoginRequest.cs",
@@ -333,7 +377,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreService\\StoreService\\appsettings.Development.json",
               "RelativeDocumentMoniker": "StoreService\\appsettings.Development.json",
@@ -345,7 +389,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "CarResponse.cs",
               "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreService\\StoreService\\Models\\Web\\Integration\\StoreResource\\Responses\\CarResponse.cs",
               "RelativeDocumentMoniker": "StoreService\\Models\\Web\\Integration\\StoreResource\\Responses\\CarResponse.cs",
@@ -357,7 +401,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "RegisterRequest.cs",
               "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreService\\StoreService\\Models\\Web\\RegisterRequest.cs",
               "RelativeDocumentMoniker": "StoreService\\Models\\Web\\RegisterRequest.cs",
@@ -369,7 +413,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreService\\StoreService\\appsettings.json",
               "RelativeDocumentMoniker": "StoreService\\appsettings.json",
@@ -381,7 +425,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "StoreService.http",
               "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\Microservices\\StoreService\\StoreService\\StoreService.http",
               "RelativeDocumentMoniker": "StoreService\\StoreService.http",

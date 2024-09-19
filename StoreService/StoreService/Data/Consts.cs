@@ -8,6 +8,7 @@ namespace StoreService.Data
     public static FrozenDictionary<string, Type> WS_MSG_TYPES = new Dictionary<string, Type>
     {
       { "ws-msg-hello", typeof (WsMessageHello) },
+      { "ws-msg-speed-update", typeof(WsMessageSpeedUpdate) },
     }.ToFrozenDictionary();
   }
 }

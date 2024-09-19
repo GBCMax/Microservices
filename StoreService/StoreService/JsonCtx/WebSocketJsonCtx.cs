@@ -8,5 +8,6 @@ namespace StoreService.JsonCtx
   PropertyNamingPolicy = JsonKnownNamingPolicy.CamelCase)]
   [JsonSerializable(typeof(WsBaseMessage))]
   [JsonSerializable(typeof(WsMessageHello))]
+  [JsonSerializable(typeof(WsMessageSpeedUpdate))]
   public partial class WebSocketJsonCtx : JsonSerializerContext { }
 }

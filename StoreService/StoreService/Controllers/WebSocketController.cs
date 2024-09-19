@@ -1,4 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using StoreService.ImitationCarTravel;
+using StoreService.Models.WebSocketModels;
 using StoreService.Servers;
 
 namespace StoreService.Controllers
@@ -32,5 +34,13 @@ namespace StoreService.Controllers
       return Results.Empty;
     }
 
+    [HttpGet("connectToCar")]
+    public async Task<IResult> StartTravel(
+    CancellationToken _ct)
+    {
+      Console.WriteLine($"Starting engine...");
+
+      return Results.Ok(Travel.StartTravel().Result);
+    }
   }
 }
