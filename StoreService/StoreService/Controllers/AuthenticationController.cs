@@ -25,27 +25,34 @@ namespace StoreService.Controllers
       }
       else
       {
-        using var client = _serviceProvider.GetRequiredService<HttpClient>();
-
-        var response = await client.PostAsJsonAsync("https://localhost:10001/api/Account/Login", new { loginRequest.Email, loginRequest.Password });
-
-        var service = _serviceProvider.GetRequiredService<OpenIddictClientService>();
-
-        var result = await service.AuthenticateWithPasswordAsync(new()
+        try
         {
-          Username = loginRequest.Email,
-          Password = loginRequest.Password
-        });
+          using var client = _serviceProvider.GetRequiredService<HttpClient>();
 
-        var token = result.AccessToken;
+          var response = await client.PostAsJsonAsync("https://localhost:10001/api/Account/Login", new { loginRequest.Email, loginRequest.Password });
 
-        HttpContext.Response.Cookies.Append("Token", token);
+          var service = _serviceProvider.GetRequiredService<OpenIddictClientService>();
 
-        return response.StatusCode != HttpStatusCode.NotFound
-          ? response.StatusCode == HttpStatusCode.Conflict
-            ? BadRequest("Неверный логин или пароль")
-            : Ok(token)
-          : NotFound("Аккаунт не найден");
+          var result = await service.AuthenticateWithPasswordAsync(new()
+          {
+            Username = loginRequest.Email,
+            Password = loginRequest.Password
+          });
+
+          var token = result.AccessToken;
+
+          HttpContext.Response.Cookies.Append("Token", token);
+
+          return response.StatusCode != HttpStatusCode.NotFound
+            ? response.StatusCode == HttpStatusCode.Conflict
+              ? BadRequest("Неверный логин или пароль")
+              : Ok(token)
+            : NotFound("Аккаунт не найден");
+        }
+        catch (Exception ex)
+        {
+          return BadRequest(ex.Message);
+        }
       }
     }
   }

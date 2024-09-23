@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\maks_\\source\\repos\\Microservices\\AuthorizationServer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6B3A0BA5-E265-408B-A53C-BC702E38F00F}|AuthorizationServer\\AuthorizationServer.csproj|c:\\users\\maks_\\source\\repos\\microservices\\authorizationserver\\authorizationserver\\apps\\seeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B3A0BA5-E265-408B-A53C-BC702E38F00F}|AuthorizationServer\\AuthorizationServer.csproj|solutionrelative:authorizationserver\\apps\\seeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B3A0BA5-E265-408B-A53C-BC702E38F00F}|AuthorizationServer\\AuthorizationServer.csproj|c:\\users\\maks_\\source\\repos\\microservices\\authorizationserver\\authorizationserver\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B3A0BA5-E265-408B-A53C-BC702E38F00F}|AuthorizationServer\\AuthorizationServer.csproj|solutionrelative:authorizationserver\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B3A0BA5-E265-408B-A53C-BC702E38F00F}|AuthorizationServer\\AuthorizationServer.csproj|c:\\users\\maks_\\source\\repos\\microservices\\authorizationserver\\authorizationserver\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3A0BA5-E265-408B-A53C-BC702E38F00F}|AuthorizationServer\\AuthorizationServer.csproj|solutionrelative:authorizationserver\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6B3A0BA5-E265-408B-A53C-BC702E38F00F}|AuthorizationServer\\AuthorizationServer.csproj|c:\\users\\maks_\\source\\repos\\microservices\\authorizationserver\\authorizationserver\\controllers\\authorizationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B3A0BA5-E265-408B-A53C-BC702E38F00F}|AuthorizationServer\\AuthorizationServer.csproj|solutionrelative:authorizationserver\\controllers\\authorizationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B3A0BA5-E265-408B-A53C-BC702E38F00F}|AuthorizationServer\\AuthorizationServer.csproj|c:\\users\\maks_\\source\\repos\\microservices\\authorizationserver\\authorizationserver\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B3A0BA5-E265-408B-A53C-BC702E38F00F}|AuthorizationServer\\AuthorizationServer.csproj|solutionrelative:authorizationserver\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B3A0BA5-E265-408B-A53C-BC702E38F00F}|AuthorizationServer\\AuthorizationServer.csproj|c:\\users\\maks_\\source\\repos\\microservices\\authorizationserver\\authorizationserver\\apps\\seeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3A0BA5-E265-408B-A53C-BC702E38F00F}|AuthorizationServer\\AuthorizationServer.csproj|solutionrelative:authorizationserver\\apps\\seeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B3A0BA5-E265-408B-A53C-BC702E38F00F}|AuthorizationServer\\AuthorizationServer.csproj|c:\\users\\maks_\\source\\repos\\microservices\\authorizationserver\\authorizationserver\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B3A0BA5-E265-408B-A53C-BC702E38F00F}|AuthorizationServer\\AuthorizationServer.csproj|solutionrelative:authorizationserver\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6B3A0BA5-E265-408B-A53C-BC702E38F00F}|AuthorizationServer\\AuthorizationServer.csproj|c:\\users\\maks_\\source\\repos\\microservices\\authorizationserver\\authorizationserver\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -78,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 634,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
@@ -103,25 +103,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "AuthorizationController.cs",
               "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\Microservices\\AuthorizationServer\\AuthorizationServer\\Controllers\\AuthorizationController.cs",
               "RelativeDocumentMoniker": "AuthorizationServer\\Controllers\\AuthorizationController.cs",
               "ToolTip": "C:\\Users\\maks_\\source\\repos\\Microservices\\AuthorizationServer\\AuthorizationServer\\Controllers\\AuthorizationController.cs",
               "RelativeToolTip": "AuthorizationServer\\Controllers\\AuthorizationController.cs",
-              "ViewState": "AQIAAD0AAAAAAAAAAAAtwFUAAAA0AAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAMwB0AAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T13:57:27.167Z"
+              "WhenOpened": "2024-07-31T13:57:27.167Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Seeder.cs",
               "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\Microservices\\AuthorizationServer\\AuthorizationServer\\Apps\\Seeder.cs",
               "RelativeDocumentMoniker": "AuthorizationServer\\Apps\\Seeder.cs",
               "ToolTip": "C:\\Users\\maks_\\source\\repos\\Microservices\\AuthorizationServer\\AuthorizationServer\\Apps\\Seeder.cs",
               "RelativeToolTip": "AuthorizationServer\\Apps\\Seeder.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAB0AAAAYAAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwBIAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-03T11:40:11.892Z",
               "EditorCaption": ""
@@ -140,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\Microservices\\AuthorizationServer\\AuthorizationServer\\Models\\User.cs",
               "RelativeDocumentMoniker": "AuthorizationServer\\Models\\User.cs",
@@ -164,15 +165,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\maks_\\source\\repos\\Microservices\\AuthorizationServer\\AuthorizationServer\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "AuthorizationServer\\Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\maks_\\source\\repos\\Microservices\\AuthorizationServer\\AuthorizationServer\\Controllers\\AccountController.cs",
               "RelativeToolTip": "AuthorizationServer\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAApwEkAAAAIAAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowE8AAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T16:50:22.453Z"
+              "WhenOpened": "2024-08-03T16:50:22.453Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -314,6 +316,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
             }
           ]
         },
